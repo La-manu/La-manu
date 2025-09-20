@@ -1,10 +1,10 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=5cadc0&text=Layra%20Scarmanha&descAlign=28&descAlignY=1&reversal=false&textBg=false&fontColor=ffff&fontSize=35&fontAlign=50&animation=fadeIn&fontAlignY=23"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=5cadc0&text=Layra%20Scarmanha&descAlign=28&descAlignY=1&reversal=false&textBg=false&fontColor=ffff&fontSize=25&fontAlign=50&animation=fadeIn&fontAlignY=23"/>
 
 
 <div align="center">
   <samp>
     <b>
-      システムアナリスト
+      いらっしゃいませ
       <br>
       Olá, meu nome é Layra !
       <br>
@@ -69,11 +69,11 @@
 
   [![Gmail](https://img.shields.io/badge/Gmail-2e3440?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:layraemanuelleg@gmail.com)
   [![Instagram](https://img.shields.io/badge/Instagram-2e3440?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/Layraxsz)
-  [![Discord](https://img.shields.io/badge/Discord-2e3440?style=for-the-badge&logo=Discord&logoColor=fff)](https://discord.gg/rafaela_dev)
+  [![Discord](https://img.shields.io/badge/Discord-2e3440?style=for-the-badge&logo=Discord&logoColor=fff)](https://discord.gg/madhlay)
   [![WhatsApp](https://img.shields.io/badge/WhatsApp-2e3440?style=for-the-badge&logo=whatsapp&logoColor=fff)](https://wa.me/5518996592269)
-  [![Twitch](https://img.shields.io/badge/Twitch-2e3440?style=for-the-badge&logo=twitch&logoColor=fff)](https://www.twitch.tv/rafaelans)
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-2e3440?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/rafaela-nascimento-sant-ana-0595251a2/)
-  [![TikTok](https://img.shields.io/badge/Reddit-2e3440?style=for-the-badge&logo=Reddit&logoColor=fff)](https://www.tiktok.com/@rafaelans00)
+  [![Twitch](https://img.shields.io/badge/Twitch-2e3440?style=for-the-badge&logo=twitch&logoColor=fff)](https://www.twitch.tv/****)
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-2e3440?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/****)
+  [![TikTok](https://img.shields.io/badge/Reddit-2e3440?style=for-the-badge&logo=Reddit&logoColor=fff)](https://www.tiktok.com/@lay.manu_)
   
   
 </div>
@@ -82,10 +82,10 @@
 
 <p align="center">
       <samp>
-        ♡ <a href="https://rentry.co/kamillymedino">rentry</a> ⊹
-        <a href="https://linktr.ee/kamillyvm1">linktr.ee</a> ⊹
-        <a href="https://bykamillyvm.carrd.co/">carrd.co</a> ⊹
-        <a href="https://cyber-buttercup-43c.notion.site/My-universe-191f307c822780fba1dae4c8a8fc6069">notion</a> ♡
+        ♡ <a href="https://rentry.co/...">rentry</a> ⊹
+        <a href="https://linktr.ee/...">linktr.ee</a> ⊹
+        <a href="https://by....carrd.co/">carrd.co</a> ⊹
+        <a href="">notion</a> ♡
       </samp>
   </p>
 
